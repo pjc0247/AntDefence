@@ -1,2 +1,11 @@
-# BaseGameRepo
-NEXT 게임잼 base repo
+# 게임의 이름
+간단한 게임의 설명 ( 민수를 키워서 세계를 정복하는 게임입니다. )
+
+스크린샷
+----
+![screenshot](http://img.naver.net/static/www/u/2013/0731/nmms_224940510.gif)
+
+만든이들
+----
+* [리니리노](깃허브 주소1)
+* [뷁뒑쉙뛝](깃허브 주소2)
